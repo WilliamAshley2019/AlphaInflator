@@ -424,7 +424,7 @@ JSInflatorEditor::JSInflatorEditor(JSInflatorProcessor& p)
     attLimCeil = std::make_unique<SlAtt>(apvts, ParamID::LIM_CEIL, limCeilSlider);
 
     attIn = std::make_unique<BtnAtt>(apvts, ParamID::IN, inBtn);
-    attClip = std::make_unique<BtnAtt>(apvts, ParamID::CLIP, clipBtn);
+    attClip = std::make_unique<BtnAtt>(apvts, ParamID::CLIP_MODE, clipBtn);
     attSplit = std::make_unique<BtnAtt>(apvts, ParamID::SPLIT, splitBtn);
     attMS = std::make_unique<BtnAtt>(apvts, ParamID::MS_MODE, msBtn);
     attBypass = std::make_unique<BtnAtt>(apvts, ParamID::BYPASS, bypassBtn);
