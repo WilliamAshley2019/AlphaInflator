@@ -11,6 +11,10 @@ Attributtion is requested where possible if you use or modify any of the source,
 Notice of use is requested so I can familiarize myself with how the code has been adapted for personal interest.
 contact@WilliamAshley.music   
 -----------------------------------------------------------------------------------------------------
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![JUCE](https://img.shields.io/badge/Built%20with-JUCE%208.0.12-blue)](https://juce.com)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20-lightgrey)]()
+[![Format](https://img.shields.io/badge/Format-VST3%20%7C%20-orange)]()
 
 To Do  - Merge all Inflator plugins to common Inflators repository
 
