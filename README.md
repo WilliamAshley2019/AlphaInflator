@@ -1,3 +1,20 @@
+--------------------------------------------------------------------------------------------------
+Copyright (c) 2026 William Ashley d/b/a William Ashley Music ( http://WilliamAshley.music )
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License  (v3) 
+
+This program is distributed in the hope that it will be useful to other audio programmers and music makers in their own plugin designs.
+There is no WARRANTY expressed or implied including for MERCHANTABILITY or FITNESS FOR ANY PURPOSE. 
+See the GNU General Public License for more details.
+
+Attributtion is requested where possible if you use or modify any of the source,
+Notice of use is requested so I can familiarize myself with how the code has been adapted for personal interest.
+contact@WilliamAshley.music   
+-----------------------------------------------------------------------------------------------------
+
+To Do  - Merge all Inflator plugins to common Inflators repository
+
+
 UPdated to Version 2 - readme will be put up once a few house keeping items are dealt with such as a little more testing of the audio processor functions and fixing a little misalignment on some scaling sizes knob positioning.
 
 The version 1 folder is VERSION 1 which is a slightly more basic version it had to be pulled/pushed at the same time as the version 2 update hence the comment version 2 next to it.   The current main is version 2 (Alpha Infaltor 2). I didn't want to start a new repository for this as it is still basically the same plugin and I'm not sure if I will go for multiple versions of the Alpha Inflator. 
